@@ -15,4 +15,4 @@ AI-Powered Business Location Intelligence System using Machine Learning and Fast
 - XGBoost
 - Pandas
 - NumPy
-- Google Places API
+
